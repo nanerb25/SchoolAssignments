@@ -1,4 +1,4 @@
-# Assignments App
+# My Assignments
 
 This Android app allows users to fetch and display assignments stored in a MySQL database. The app uses Jetpack Compose for the UI and integrates with a Node.js backend to retrieve assignment data. It also features Material 3 design elements, dynamic theme switching, and various customization options.
 
@@ -19,7 +19,7 @@ nothing yet
 ### Prerequisites
 
 - **Android Studio**: Latest stable version recommended.
-- **Node.js**: For running the backend server.
+- **Python3**: For running the backend server.
 - **MySQL**: Database to store the assignments data.
 
 ### Installation
